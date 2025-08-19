@@ -1,32 +1,53 @@
-<img width="500" height="500" alt="Tela do Conversor" src="https://github.com/user-attachments/assets/8a97fb85-ae1d-47fb-959b-f98a3d076621" /> <img width="344" height="76" alt="Logo" src="https://github.com/user-attachments/assets/5cd5b75b-2309-4fa3-baa1-8936590707da" />
+# 💱 Conversor de Moedas
 
-💱 Conversor de Moedas
-📌 Sobre o Projeto
+[![Java](https://img.shields.io/badge/Java-17%2B-blue?logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Este é um Conversor de Moedas desenvolvido inteiramente em Java, como parte do challenge proposto na formação Backend Java do programa Oracle Next Education (ONE), oferecido pela Alura.
+> Aplicação Desktop desenvolvida como Challenge do programa **Oracle Next Education (ONE)** da **Alura**.
 
-A aplicação consome uma API de taxas de câmbio em tempo real para realizar conversões precisas entre diferentes moedas. O usuário informa o valor desejado, seleciona a moeda de origem e a moeda de destino, e recebe instantaneamente o valor convertido.
+---
 
-⚙️ Funcionalidades
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a97fb85-ae1d-47fb-959b-f98a3d076621" alt="Tela do Conversor" width="300"/>
+</p>
 
-💰 Entrada de valor: O usuário informa o valor a ser convertido.
+---
 
-🌍 Seleção de moedas: Escolha da moeda de origem e destino.
+## 📌 Sobre o Projeto
 
-🔄 Atualização em tempo real: Consumo de uma API para obter a taxa de câmbio atual.
+Este é um **Conversor de Moedas** desenvolvido em **Java**, que utiliza uma API de câmbio em tempo real para realizar conversões entre diversas moedas do mundo. O projeto é uma aplicação desktop, com foco em praticar o consumo de APIs e manipulação de JSON.
 
-🧾 Exibição do resultado: O valor convertido é apresentado de forma clara e objetiva.
+---
 
-🛠 Tecnologias Utilizadas
+## ⚙️ Funcionalidades
 
-Java 17+
+- 💰 **Entrada de valor**: Permite ao usuário digitar o valor que deseja converter.
+- 🌐 **Seleção de moedas**: Escolha de moeda de origem e de destino.
+- 🔄 **Atualização em tempo real**: Através da API [ExchangeRate.host](https://exchangerate.host/), a aplicação busca a taxa de câmbio atual.
+- 📊 **Resultado instantâneo**: Mostra o valor convertido de forma rápida e precisa.
 
-GSON — para a desserialização de dados JSON
+---
 
-ExchangeRate API — https://exchangerate.host
+## 🚀 Tecnologias Utilizadas
 
-IntelliJ IDEA — como ambiente de desenvolvimento
+- **Java 17+**
+- **GSON** – biblioteca para desserialização de JSON
+- **ExchangeRate API** – [https://exchangerate.host](https://exchangerate.host/)
+- **IntelliJ IDEA** – ambiente de desenvolvimento
 
-<img width="1328" height="318" alt="Interface da aplicação" src="https://github.com/user-attachments/assets/dee1abc1-10a1-47b5-8a06-7cee3ebad420" />
+---
 
-💻 Aplicação Desktop desenvolvida por @jcastilho, como parte do Challenge do programa Oracle Next Education (ONE), pela plataforma de ensino Alura.
+## ▶️ Como Usar
+Informe o valor que deseja converter.
+
+Escolha a moeda de origem.
+
+Escolha a moeda de destino.
+
+Clique em Converter.
+
+O valor convertido será exibido no console.
+
+## 🧑‍💻 Autor
+Desenvolvido por @jcastilho durante a formação Backend Java no programa Oracle Next Education (ONE) pela Alura.
