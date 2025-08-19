@@ -1,15 +1,16 @@
 # 💱 Conversor de Moedas
 
-[![Java](https://img.shields.io/badge/Java-17%2B-blue?logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea/)
-
-> Aplicação Desktop desenvolvida como Challenge do programa **Oracle Next Education (ONE)** da **Alura**.
-
----
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a97fb85-ae1d-47fb-959b-f98a3d076621" alt="Tela do Conversor" width="200"/>
+  <span>
+    <img src="https://github.com/user-attachments/assets/8a97fb85-ae1d-47fb-959b-f98a3d076621" alt="Tela do Conversor" width="200" style="vertical-align: middle; margin-right: 20px;"/>
+  </span>
+  <span style="display: inline-block; vertical-align: middle; max-width: 400px;">
+  </span>
 </p>
+
+
+[![Java](https://img.shields.io/badge/Java-17%2B-blue?logo=java&logoColor=white)](https://www.oracle.com/java/)
+  [![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea/)
 
 ---
 
